@@ -40,7 +40,7 @@ To learn how to do a tasklist in React and to use local storage
 
 ## Project Features
 
-- Input to enter task details
+- Input area to enter task details
 - Buttons to select which language, HTML, CSS , JavaScript or React
 - A drop down menu to select the status of the job
 - Individual sections to display the jobs
