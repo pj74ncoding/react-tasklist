@@ -1,16 +1,142 @@
-# React + Vite
+# react-tasklist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Job tasklist application 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Demo: https://react-tasklist-two.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Installation](#installation)
+- [Project Features](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+- [Future Improvements](#future-improvements)
+- [Credits](#credits)
+- [License](#license)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Overview
+
+### Motivation
+
+To Learn how to do a tasklist in React and to use local storage
+
+
+
+
+
+### Learning Outcomes
+
+- Learnt how to utilize local storage
+- learnt how to use ternary operators to style elements
+
+## Project Features
+
+- Input to enter task details
+- Buttons to select which language, HTML, CSS , JavaScript or React
+- A drop down menu to select the status of the job
+- Individual sections to display the jobs
+- Filtering to delete each job
+- Tags displayed with each job
+- Clean layout
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+### Tools
+
+- Git & GitHub
+- VS Code
+
+## Architecture
+
+1.
+
+Client (Frontend)
+
+```
+
+2.
+
+client/
+|
+\---src
+    |   
+    +---assets
+    |                   
+    +---Components
+
+  
+```
+
+---
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/pj74ncoding/react-tasklist.git
+cd  react-tasklist 
+
+```
+
+### Install Dependencies
+
+Frontend:
+
+```bash
+cd react-tasklist
+npm install
+```
+
+### Run Development Servers
+
+Frontend:
+
+```bash
+npm start
+```
+
+Add inside README:
+
+```markdown
+![Home Page](assets/home.png)
+![Dashboard](assets/dashboard.png)
+```
+
+---
+
+## Future Improvements
+
+- None
+
+
+---
+
+## Credits
+
+Developer: Peter Newman
+GitHub: https://github.com/pj74ncoding
+
+---
+
+## License
+
+This project is licensed under the MIT License.
