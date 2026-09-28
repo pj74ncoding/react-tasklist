@@ -27,7 +27,7 @@ Live Demo: https://react-tasklist-two.vercel.app/
 
 ### Motivation
 
-To Learn how to do a tasklist in React and to use local storage
+To learn how to do a tasklist in React and to use local storage
 
 
 
