@@ -30,9 +30,6 @@ Live Demo: https://react-tasklist-two.vercel.app/
 To learn how to do a tasklist in React and to use local storage
 
 
-
-
-
 ### Learning Outcomes
 
 - Learnt how to utilize local storage
@@ -69,6 +66,8 @@ To learn how to do a tasklist in React and to use local storage
 1.
 
 Client (Frontend)
+
+Folder Structure Example:
 
 ```
 
