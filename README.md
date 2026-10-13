@@ -2,7 +2,6 @@
 
 A Job tasklist application 
 
-
 Live Demo: https://react-tasklist-two.vercel.app/
 
 ---
@@ -103,25 +102,16 @@ cd  react-tasklist
 Frontend:
 
 ```bash
-cd react-tasklist
 npm install
 ```
 
-### Run Development Servers
+### Run Application
 
 Frontend:
 
 ```bash
 npm start
 ```
-
-Add inside README:
-
-```markdown
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-```
-
 ---
 
 ## Future Improvements
