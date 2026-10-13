@@ -14,7 +14,6 @@ Live Demo: https://react-tasklist-two.vercel.app/
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Project Features](#usage)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Future Improvements](#future-improvements)
 - [Credits](#credits)
