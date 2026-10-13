@@ -1,6 +1,6 @@
 # react-tasklist
 
-A Job tasklist application 
+A job tasklist application 
 
 Live Demo: https://react-tasklist-two.vercel.app/
 
